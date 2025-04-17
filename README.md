@@ -1,3 +1,4 @@
-SQLite + Android - Complete Tutorial
+Aplikasi CRUD Buku Perpustakaan. Dibuat menggunakan Android studio dan SQLite
 
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+NIM : 234311019
+NAMA : Muhamad Dzakwan Alfaris 
